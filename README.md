@@ -1,10 +1,7 @@
-# *Your Project Description*
-## *Sponsoring Company or Organization*
+# *CS-25-304 Project Description*
+## *VCU School of Nursing*
 ## *Short Project Description*
-The directory structure in this GitHub is to allow the project to have all its resources self-contained.
-Open Source software should not just be a repository of code.  There are a number of directories to help you and others that will 
-follow in your foot steps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the developmemnt of this project.
+The MHWP would like VCU capstone students design, implement, and document a prototype API and tablet application that can help researchers learn more about the data in the MHWP repository, permitting them to find potential study participants with features and attributes of interest. 
 
 | Folder | Description |
 |---|---|
@@ -16,8 +13,8 @@ a better understanding of the problems you encountered during the developmemnt o
 ## Project Team
 - *Mentor's Name*  - *Company Affliation* - Mentor
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *John Leonard* - *Computer Science* - Faculty Advisor
+- *Edson Decker* - *Computer Science* - Student Team Member
+- *Alex Davidkov* - *Computer Science* - Student Team Member
+- *Haley Vivian* - *Computer Science* - Student Team Member
+- *William Meredith* - *Computer Science* - Student Team Member
